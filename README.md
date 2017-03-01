@@ -4,8 +4,11 @@
 	<title>Sophie Roscoe</title>
 </head>
 <body>
-	<p> 
-	#sophie-roscoe.github.io
+	<h1> 
+	Sophie Roscoe
+	</h1>
+	<p>
+	Puppies
 	</p>
 </body>
 </html>
